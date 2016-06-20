@@ -17,5 +17,139 @@
         <jarDirectory url="file:///opt/java/httpcomponents-client-4.5.2/lib" recursive="false" />
       </library>
     </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar:///opt/java/jackson-core-2.7.5.jar!/" />
+          <root url="jar:///opt/java/jackson-databind-2.7.5.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:///opt/java/jackson-annotations-2.7.5-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar:///opt/java/jackson-annotations-2.7.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar:///opt/java/gson-2.2.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar:///opt/java/json-lib-2.4-jdk15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar:///opt/java/ezmorph-1.0.6.jar!/" />
+          <root url="file:///opt/java/commons-beanutils-1.9.2" />
+          <root url="file:///opt/java/commons-collections4-4.1" />
+          <root url="file:///opt/java/commons-lang3-3.4" />
+          <root url="file:///opt/java/commons-logging-1.2" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file:///opt/java/commons-beanutils-1.9.2/apidocs" />
+          <root url="file:///opt/java/commons-collections4-4.1/apidocs" />
+          <root url="file:///opt/java/commons-lang3-3.4/apidocs" />
+          <root url="file:///opt/java/commons-logging-1.2/apidocs" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="file:///opt/java/commons-beanutils-1.9.2" />
+          <root url="file:///opt/java/httpcomponents-client-4.5.2/examples" />
+        </SOURCES>
+        <jarDirectory url="file:///opt/java/commons-beanutils-1.9.2" recursive="false" />
+        <jarDirectory url="file:///opt/java/commons-collections4-4.1" recursive="false" />
+        <jarDirectory url="file:///opt/java/commons-lang3-3.4" recursive="false" />
+        <jarDirectory url="file:///opt/java/commons-logging-1.2" recursive="false" />
+        <jarDirectory url="file:///opt/java/commons-beanutils-1.9.2" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file:///opt/java/commons-lang-2.6" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file:///opt/java/commons-lang-2.6/apidocs" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="file:///opt/java/commons-lang-2.6" />
+        </SOURCES>
+        <jarDirectory url="file:///opt/java/commons-lang-2.6" recursive="false" />
+        <jarDirectory url="file:///opt/java/commons-lang-2.6" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file:///opt/java/commons-collections-3.2.2" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file:///opt/java/commons-collections-3.2.2/apidocs" />
+        </JAVADOC>
+        <SOURCES />
+        <jarDirectory url="file:///opt/java/commons-collections-3.2.2" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file:///opt/java/flexjson-2.1" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file:///opt/java/flexjson-2.1/apidocs" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="file:///opt/java/flexjson-2.1" />
+        </SOURCES>
+        <jarDirectory url="file:///opt/java/flexjson-2.1" recursive="false" />
+        <jarDirectory url="file:///opt/java/flexjson-2.1" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar:///opt/java/json-io-3.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar:///opt/java/genson-0.98.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar:///opt/java/jsonij-0.2.11.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
