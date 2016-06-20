@@ -1,0 +1,2 @@
+普通字符串
+com.kevin.PrintStreamTest@23fc625e
